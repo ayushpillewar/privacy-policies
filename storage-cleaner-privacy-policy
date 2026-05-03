@@ -1,0 +1,109 @@
+PRIVACY POLICY — STORAGE CLEANER
+Effective date: May 2, 2026
+Last updated: May 2, 2026
+
+------------------------------------------------------------------------
+
+Storage Cleaner ("the App", "we", "us") is a personal productivity
+utility that helps users identify and remove large files from their iOS
+photo library. This Privacy Policy explains what information the App
+accesses, how it is used, and what it does NOT do.
+
+
+1. INFORMATION WE ACCESS
+------------------------------------------------------------------------
+The App requests access to your Photos library (iOS Photo Library
+permission) solely to read file names, sizes, types, and metadata for
+the purpose of displaying them to you within the App.
+
+  - File names, sizes, and media types (photo, video, audio)
+  - File creation and modification timestamps
+  - Video duration, image dimensions (used for display only)
+
+This data is accessed on-device and is NEVER transmitted, uploaded, or
+shared with any server, third party, or external service.
+
+
+2. INFORMATION WE DO NOT COLLECT
+------------------------------------------------------------------------
+  - We do not collect personal information (name, email, phone number)
+  - We do not collect device identifiers or advertising IDs
+  - We do not use analytics, crash reporting, or any third-party SDKs
+  - We do not track your usage, behavior, or location
+  - We do not store any data outside of your device
+  - We do not require an account or login of any kind
+
+
+3. HOW WE USE THE INFORMATION
+------------------------------------------------------------------------
+All file metadata accessed from your Photos library is used exclusively
+to:
+
+  - Display a list of your files sorted by size
+  - Show file type, size, and previews within the App's interface
+  - Allow you to delete files you choose to remove
+
+Processing happens entirely on your device. No file content or metadata
+is transmitted anywhere.
+
+
+4. FILE DELETION
+------------------------------------------------------------------------
+When you delete a file through the App, it is removed using the standard
+iOS Photos framework (PHPhotoLibrary). Deleted assets are moved to the
+Recently Deleted album in Photos, where they remain recoverable for
+30 days before being permanently erased by iOS. The App does not bypass
+or circumvent this system behavior.
+
+
+5. FILES APP ACCESS (DOCUMENT PICKER)
+------------------------------------------------------------------------
+If you choose to use the "Add Files" feature, the App opens the iOS
+system document picker (Files app). You explicitly select files you wish
+to add. The App reads only the file name, size, and URI of files you
+select. This access is limited to items you manually choose and is not
+used to browse your filesystem without your interaction.
+
+
+6. THIRD-PARTY SERVICES
+------------------------------------------------------------------------
+The App does not integrate any third-party advertising networks,
+analytics platforms, social SDKs, or data brokers. There are no in-app
+purchases, subscriptions, or payment systems.
+
+
+7. CHILDREN'S PRIVACY
+------------------------------------------------------------------------
+The App is rated 4+ and does not knowingly collect any information from
+anyone, including children under the age of 13. Because no personal data
+is collected at all, no special handling for minors is required.
+
+
+8. DATA SECURITY
+------------------------------------------------------------------------
+Because the App does not collect, store, or transmit any user data,
+there is no personal data at risk of breach. All operations are local
+to your device and protected by iOS's built-in security model.
+
+
+9. CHANGES TO THIS POLICY
+------------------------------------------------------------------------
+If the App's data practices change in a future version, this policy will
+be updated and the effective date above will be revised. Continued use
+of the App after any update constitutes acceptance of the revised policy.
+
+
+10. CONTACT
+------------------------------------------------------------------------
+If you have any questions about this Privacy Policy, please contact:
+
+  Developer:   Majboor Majdoor
+  Bundle ID:   com.majboormajdoor.storage-cleaner
+  Email:       ayushpillewar18@gmail.com
+
+
+------------------------------------------------------------------------
+SUMMARY: Storage Cleaner accesses your photo library only to display
+file sizes. It collects no personal data, uses no analytics, has no
+servers, and transmits nothing. Everything stays on your device.
+------------------------------------------------------------------------
